@@ -26,9 +26,9 @@ Pour chacun des réseaux sociaux utilisés, remplir le tableau suivant
 
 Première échéance : **Pour le 24 septembre au plus tard**, vous devez avoir complété le tableau suivant avec 20 entreprises pour chacun.
 
-| Entreprise | Date | Contact | Type de cand. | Date d'envoi | Satut | Relance Prévue | commentaires |     |
-| ---------- | ---- | ------- | ------------- | ------------ | ----- | -------------- | ------------ | --- |
-| Linkedin   | …    | …       | …             |
+| Entreprise | Date | Contact | Type de cand. | Date d'envoi | Satut | Relance Prévue | commentaires |
+| ---------- | ---- | ------- | ------------- | ------------ | ----- | -------------- | ------------ |
+| ...        | …    | …       | …             |
 | Nom 2      | …    | …       | …             |
 | Nom 3      | …    | …       | …             |
 
