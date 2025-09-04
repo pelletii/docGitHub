@@ -1,13 +1,36 @@
 # Le suivi de stage
 
+> ⚠️ **Attention** : Complétez toutes les sections avant de pousser vos modifications sur GitHub.  
+> 💡 Vous pouvez prévisualiser le rendu Markdown directement sur GitHub.
+
+**Nom de l’étudiant :**  
+**Date :**
+
 ## Première partie - Les réseaux sociaux
 
-# 📝 Compte rendu de TP
+Lister les réseaux sociaux utilisés pour la recherche de stage
 
-👤 **Nom de l’étudiant :**  
-📅 **Date :**
+1. …
+2. …
+3. …
 
----
+Pour chacun des réseaux sociaux utilisés, remplir le tableau suivant
+
+| Réseau social | Date | Publication ou contact | Commentaire |
+| ------------- | ---- | ---------------------- | ----------- |
+| Linkedin      | …    | …                      | …           |
+| Nom 2         | …    | …                      | …           |
+| Nom 3         | …    | …                      | …           |
+
+# Deuxième partie - Tableau de suivi de stage
+
+Première échéance : **Pour le 24 septembre au plus tard**, vous devez avoir complété le tableau suivant avec 20 entreprises pour chacun.
+
+| Entreprise | Date | Contact | Type de cand. | Date d'envoi | Satut | Relance |
+| ---------- | ---- | ------- | ------------- | ------------ | ----- | ------- |
+| Linkedin   | …    | …       | …             |
+| Nom 2      | …    | …       | …             |
+| Nom 3      | …    | …       | …             |
 
 ## ⚡ Consignes
 
